@@ -29,7 +29,7 @@ Spawn Selector for QB-Core Framework :eagle:
 - [qb-garages](https://github.com/qbcore-framework/qb-garages) - For house garages
 
 # YouTube Previews
-![Spawn selector](https://youtu.be/1PKY5Hb2uyM)
+! Spawn selector - https://youtu.be/1PKY5Hb2uyM
 
 # Features
 - Clean Style !
