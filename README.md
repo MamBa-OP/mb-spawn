@@ -3,6 +3,9 @@ Spawn Selector for QB-Core Framework :eagle:
 
 # I Just Edited The Css, Js | I Am Not The Script Owner !
 
+- Buy Me Coffee ☕
+https://buymeacoffee.com/mambaop
+
 # License
 
     QBCore Framework
